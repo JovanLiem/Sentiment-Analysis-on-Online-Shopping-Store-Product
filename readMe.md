@@ -1,0 +1,2 @@
+<h1>>entiment Analysis on Online Shopping Store Product by Product Review</h1>
+In order to complete research methodology for computer science course, I do some research on online shopping store product review. I do sentiment analysis on online shopping store or e-commerce product by product review. I do some data preprocessig before I build the model. In this project I build XGBoost model and BERT model. <br>
